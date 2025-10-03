@@ -2,6 +2,7 @@ Unity Hub 3.14.2 Windows AMD64 — Installer
 =============================================================
 
 This repository hosts the Windows AMD64 installer of **Unity Hub 3.14.2**.
+All installers are uploaded in split archive format (`UnityHubSetup.7z.001`, `UnityHubSetup.7z.002`, …) to work around GitHub’s file size limits.
 
 ---
 
